@@ -1,4 +1,4 @@
-# 🚀 CloudAudit  Automated Configuration & Compliance Auditor
+# 🚀 CloudAudit - Automated Configuration & Compliance Auditor
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)  
 ![Tool](https://img.shields.io/badge/Compliance-Auditor-FF5252.svg?logo=shield)  
