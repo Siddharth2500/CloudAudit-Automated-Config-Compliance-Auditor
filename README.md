@@ -21,7 +21,7 @@
 | Execution    | Script / Colab / Notebook    | Supports quick analysis and prototyping |
 | Logging      | Console + File Output        | Audit trail and human feedback          |
 
-------
+-------
 
 ## 🌐 Architecture
 
