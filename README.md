@@ -35,7 +35,7 @@ Flow:
 4. **Generate** `audit_report.json` with summary and detailed issues; print a human-readable summary  
 5. **Integrate** the report into CI/CD pipelines, dashboards, or compliance workflows  
 
----
+------
 
 ## ▶️ Run CloudAudit
 
